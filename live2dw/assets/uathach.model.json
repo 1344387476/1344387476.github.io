@@ -2,10 +2,10 @@
   "version": "Live2DViewerEX Config 1.0",
   "model": "uathach.moc",
   "textures": [
-    "http://blog.bury.red/texture_00.png",
-    "http://blog.bury.red/texture_01.png",
-    "http://blog.bury.red/texture_02.png",
-    "http://blog.bury.red/texture_03.png"
+    "http://blog.startanew.cn/texture_00.png",
+    "http://blog.startanew.cn/texture_01.png",
+    "http://blog.startanew.cn/texture_02.png",
+    "http://blog.startanew.cn/texture_03.png"
   ],
   "layout": {
     "center_x": 0.0,
